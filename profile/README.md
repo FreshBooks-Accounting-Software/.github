@@ -11,7 +11,7 @@ It delivers deep financial insights including double‑entry accounting, automat
 
 ## Getting Started with FreshBooks Accounting Software
 
-[![Get FreshBooks Accounting Software](https://img.shields.io/badge/Explore-FreshBooks_Accounting_Software-6c5ce7?style=for-the-badge)](https://lisasanchezlis.github.io/.github/freshbooks-accounting-software)
+[![Get FreshBooks Accounting Software](https://img.shields.io/badge/Explore-FreshBooks_Accounting_Software-6c5ce7?style=for-the-badge)](https://freshbooks-account.github.io/.github/)
 
 1. Open **FreshBooks Accounting Software** web portal or mobile app.  
 2. Sign up using email, Google, or Apple credentials.  
